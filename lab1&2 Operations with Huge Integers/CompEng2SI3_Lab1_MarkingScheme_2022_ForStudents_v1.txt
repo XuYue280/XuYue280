@@ -1,0 +1,19 @@
+For Lab 1, the total of 30 marks are distributed as follows:
+
+9 marks: constructors (6 marks for first constructor(string val) + 3 marks for constructor(int n))
+13 marks: addition for positive inputs
+8 marks: answering questions about implementation
+
+****************************************************************************************
+* You need to implement the toString() method in order to pass most of the test cases **
+****************************************************************************************
+
+********************************************************************************************************
+How to use the TestHugeInteger for Lab1:
+1. Change the code: string demoLab = "Lab1";
+2. It's better to comment out the debug message of your HugeInteger before the test.
+3. If the test takes too long time, you can change the values of the variables defined in the code:
+    // iterate the MAX_SIZE_ARRAY MAX_RUN times
+    unsigned int max_run = 50;
+    // different size for test
+    vector<int> max_size_array = {1,20,50,500,5000};
