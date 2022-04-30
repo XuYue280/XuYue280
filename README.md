@@ -8,7 +8,7 @@ The about labs were done in computer engineering courses at McMaster University.
         - sparse vector storage
         - sparse vector operations
         
-##### Lab 7:  Strings. Dynamic Memory Allocation. C Structures   
+##### Lab 7:  Strings, Dynamic Memory Allocation, C Structures   
         - allocate memory to store the combination of two strings
         - object-oriented programming
         
