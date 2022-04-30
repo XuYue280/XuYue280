@@ -12,3 +12,6 @@ The about labs were done in computer engineering courses at McMaster University.
         - allocate memory to store the combination of two strings
         - object-oriented programming
         
+##### Lab 8 C++ Classes
+        - CUTE setup
+        - matrix operation (copy, sub matrix, addition, upper triginal matrix, to string)
