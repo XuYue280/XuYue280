@@ -1,0 +1,48 @@
+********************Lab5 Marking Scheme***********************
+
+Total: 100 marks (Demo: 80, Answering questions: 10, Run time and space complexity: 10)
+Bonus: 10 marks
+Overall: 110 marks
+
+***************************************
+* Demo test cases: 80 makrs 
+* (40 for each type of probing)
+***************************************
+Linear/Quadratic share the same test cases
+
+1. Constructor (total 4 marks)
+
+2. insert (total 18 marks)
+
+3. isIn (total 9 marks)
+
+4. simProbeSuccess (total 9 marks)
+
+
+***************************************
+* Answering questions: 10 marks
+* (5 for each type of probing)
+***************************************
+They should be able to clearly describe their code and algorithms used to perform insert, rehash, isIn and simProbeSuccess.
+
+
+***************************************
+* Run time and space complexity: 10 marks
+* (5 for each type of probing)
+***************************************
+The students should show run time and space complexity analysis for all methods (except simProbeSuccess) they wrote for this lab.
+
+
+***************************************
+* Bonus: 10 marks
+***************************************
+HashTableLin::simProbeUnsuccess(): linear probing simulations for successful search
+
+
+***************************************
+* How to use the TestHashTable for Lab5
+***************************************
+1. For demo, DO NOT modify the code in TestHashTable.cpp/TestHashTable.h
+2. It's better to comment out the debug messages in your HashTableLin/HashTableQuad classes before the demo.
+3. Implement HashTableLin/HashTableQuad classes by adding code in corresponding *.cpp/*.h.
+4. Run the test with default parameter settings.
