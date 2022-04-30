@@ -1,3 +1,0 @@
-The range of integers that can be represented in C++ using a primitive data type is only from −2^63 to 2^63. What if we need to manipulate integer values beyond this range?
-In this assignment you will write a HugeInteger class which is able to represent arbitrarily large integer numbers. This class must implement arithmetic operations on integers such as addition, subtraction, multiplication and comparison. You have to implement this class without using C++ predefined classes, unless specified otherwise.
-Additionally, you have to measure experimentally the running times of the operations implemented in your HugeInteger class and compare them with the measured running times of the corresponding operations provided by boost::multiprecision::cpp int class.
