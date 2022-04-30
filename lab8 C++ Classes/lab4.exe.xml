@@ -1,0 +1,28 @@
+<testsuites>
+	<testsuite name="AllTests" tests="24">
+		<testcase classname="AllTests" name="testConstructor1Invalid1"/>
+		<testcase classname="AllTests" name="testConstructor1Invalid2"/>
+		<testcase classname="AllTests" name="testConstructor1Valid"/>
+		<testcase classname="AllTests" name="testConstructor2"/>
+		<testcase classname="AllTests" name="testGetElementValid"/>
+		<testcase classname="AllTests" name="testGetElementInvalid"/>
+		<testcase classname="AllTests" name="testSetElementValid"/>
+		<testcase classname="AllTests" name="testSetElementInvalid"/>
+		<testcase classname="AllTests" name="testCopy"/>
+		<testcase classname="AllTests" name="testAddToInvalid"/>
+		<testcase classname="AllTests" name="testAddToValid"/>
+		<testcase classname="AllTests" name="testSubMatrixValid"/>
+		<testcase classname="AllTests" name="testSubMatrixInvalid"/>
+		<testcase classname="AllTests" name="testIsUpperTrTrue"/>
+		<testcase classname="AllTests" name="testIsUpperTrFalse"/>
+		<testcase classname="AllTests" name="testIsUpperTrFalseNotSquare"/>
+		<testcase classname="AllTests" name="testConstructor2_add1"/>
+		<testcase classname="AllTests" name="testSetElementvalid_add2"/>
+		<testcase classname="AllTests" name="testGetElementValid_add3"/>
+		<testcase classname="AllTests" name="testCopy_add4"/>
+		<testcase classname="AllTests" name="testAddToInvalid_add5"/>
+		<testcase classname="AllTests" name="testAddToValid_add6"/>
+		<testcase classname="AllTests" name="testSubMatrixValid_add7"/>
+		<testcase classname="AllTests" name="testIsUpperTrTrue_add8"/>
+	</testsuite>
+</testsuites>
