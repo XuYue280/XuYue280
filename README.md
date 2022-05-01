@@ -1,8 +1,8 @@
 The about labs were done in computer engineering courses at McMaster University.
 
 ##### Lab 1 & 2:  Operations with Huge Integers:
-        - range between -2^63 to 2^63 -1
-        - addition, subtraction, multiplication and comparition
+        - integer with range between -2^63 to 2^63 -1
+        - huge integer's addition, subtraction, multiplication and comparison
         - average and worst running time analysis
 
 ##### Lab 3:  Implementation of Polynomial Using Linked List
@@ -20,7 +20,7 @@ The about labs were done in computer engineering courses at McMaster University.
 ##### Lab 5:  Hash Tables with Linear and Quadratic Probing
         - resolve collision by linear and quadratic probing
         - rehash
-        - claculate the average number of probes for successful and unsuccessful search
+        - calculate the average number of probes for successful and unsuccessful search
         
 ##### Lab 6:  Functions and Arrays：
         - vectors addition
@@ -40,6 +40,6 @@ The about labs were done in computer engineering courses at McMaster University.
 ##### Lab 9:  Implementation of Sets Using Sorted Linked Lists
         - linked list construction
         - determine union, intersection and difference sets between two linked list
-        - string to linked list
+        - string to a linked list
         - linked list to string
         
