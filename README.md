@@ -34,7 +34,7 @@ The about labs were done in computer engineering courses at McMaster University.
         - object-oriented programming
         
 ##### Lab 8:  C++ Classes
-        - CUTE setup
+        - CUTE (C++ Unit Testing Easier) setup
         - matrix operation (copy, sub matrix, addition, upper triginal matrix, to string)
 
 ##### Lab 9:  Implementation of Sets Using Sorted Linked Lists
