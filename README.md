@@ -1,4 +1,4 @@
-The about labs were done in computer engineering courses at McMaster University.
+The labs below were done in Computer Engineering courses at McMaster University.
 
 ##### Lab 1 & 2:  Operations with Huge Integers:
         - integer with range between -2^63 to 2^63 -1
