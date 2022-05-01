@@ -1,5 +1,27 @@
 The about labs were done in computer engineering courses at McMaster University.
 
+##### Lab 1 & 2:  Operations with Huge Integers:
+        - range between -2^63 to 2^63 -1
+        - addition, subtraction, multiplication and comparition
+        - average and worst running time analysis
+
+##### Lab 3:  Implementation of Polynomial Using Linked List
+        - sorted singly linked list with a dummy header
+        - addition and Multiplication of Polynomials
+        - average and worst running time analysis
+        - memory requirement analysis
+
+##### Lab 4:  Implementation of Set ADT Using Binary Search Trees (BST)
+        - BST construction
+        - return in-order, post-order and pre-order traverse (recursive)
+        - search element in BST
+        - determine union, intersection and difference sets between two BSTs
+        
+##### Lab 5:  Hash Tables with Linear and Quadratic Probing
+        - resolve collision by linear and quadratic probing
+        - rehash
+        - claculate the average number of probes for successful and unsuccessful search
+        
 ##### Lab 6:  Functions and Arrays：
         - vectors addition
         - determine the scalar product of two vectors  
